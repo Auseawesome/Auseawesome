@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Auseawesome
-- 👀 I’m interested in coding and mindusrty modding
+- 👀 I’m interested in coding and mindustry modding
 - 🌱 I’m currently learning how to use java to mods mindustry
 - 💞️ I’m looking to collaborate on modding mindustry
 - 📫 To reach me email ajthomasbtb@outlook.com
