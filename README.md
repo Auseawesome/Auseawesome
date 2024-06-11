@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Auseawesome
-- 👀 I’m interested in coding and mindustry modding
-- 🌱 I’m currently learning how to use json well to mod mindustry
-- 💞️ I’m looking to collaborate on modding mindustry
-- 📫 To reach me email ajthomasbtb@outlook.com
+Hey I'm Auseawesome, Ause for short. I am primarily a GDScript and C# dev, however I also do pixel art. I open source nearly all my projects so they can freely be used as reference and enjoy contributing to other open source endeavors!
